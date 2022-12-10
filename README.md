@@ -8,7 +8,7 @@ I've been coding for almost 2 years . Have worked on various tech stacks . I am 
 
 * 🌍  I'm based in New Delhi , india
 * ✉️  You can contact me at [syash5575@gmail.com](mailto:syash5575@gmail.com)
-* 🚀  I'm currently working on [SALT](http://salt.pe)
+* 🚀  I'm currently working on [a fintech product](http://salt.pe)
 * 🧠  I'm learning Three.js
 * ⚡  Love playing chess .
 
