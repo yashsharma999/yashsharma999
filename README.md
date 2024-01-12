@@ -1,16 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yash Sharma
 ===================================================================================================================================
 
-Software Engineer | Core skill : React JS 👨🏻‍💻
+Software Engineer | Frontend Developer 🕺🏻
 -------------------------------------------------
 
-I've been coding for almost 2 years . Have worked on various tech stacks . I am really excited about learning 3D web development .
-
-* 🌍  I'm based in New Delhi , india
-* ✉️  You can contact me at [syash5575@gmail.com](mailto:syash5575@gmail.com)
-* 🚀  I'm currently working on [a fintech product](http://salt.pe)
-* 🧠  I'm learning Three.js
-* ⚡  Love playing chess .
+Not sure what to write in my bio right now. Will be updated soon!
 
 ### Skills
 
