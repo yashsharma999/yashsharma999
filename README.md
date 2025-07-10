@@ -2,6 +2,7 @@
 
 I am currently working on:
 - [Mocker AI]([https://www.betterside.fun/](https://mocker-ai-one.vercel.app/)) - create quick synthetic data for your niche use cases
+- [Mipal AI]([https://mipal.ai/)) - optimize your business with AI
 
 I am currently learning:
 - Python
