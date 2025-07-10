@@ -1,10 +1,10 @@
 👋 Hi there!
 
 I am currently working on:
-- [BetterSide](https://www.betterside.fun/) - grow your business using the solutions we offer at a fixed price
+- [Mocker AI]([https://www.betterside.fun/](https://mocker-ai-one.vercel.app/)) - create quick synthetic data for your niche use cases
 
 I am currently learning:
-- Langchain
 - Python
+- Marketing
 
 Reach out to me on twitter : [5273Yash](https://x.com/5273Yash)
